@@ -1,0 +1,22 @@
+{
+  "name": "gastro-pay",
+  "version": "1.0.0",
+  "description": "Webová platforma pro propojení pokladních systému a platebních bran",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckykiet/gastro-pay.git"
+  },
+  "keywords": [
+    "gastropay"
+  ],
+  "author": "Tuan Kiet Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckykiet/gastro-pay/issues"
+  },
+  "homepage": "https://github.com/luckykiet/gastro-pay#readme"
+}
